@@ -3,7 +3,7 @@
 
 My name is Pedro, I live in Belo Horizonte - Brazil and I'm a Fullstack Web Development student @ Trybe.
 
-:heavy_check_mark: Over the last few months, I have been learning the fundamentals of HTML, CSS and Javascript for Web Development. I also studied the basics of some frontend stacks such as React and Redux.
+:books: Over the last few months, I have been learning the fundamentals of HTML, CSS and Javascript for Web Development. I also studied the basics of some frontend stacks such as React and Redux.
 
 :rocket: I’m currently learning backend abilities such as Node.js with Express, Typescript and Sequelize, as well as the basics of the OOP paradigm.
 
