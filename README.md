@@ -19,7 +19,8 @@ Here are the stacks I'm already comfortable using
 
 :mailbox_with_mail: Please, feel free to contact me at LinkedIn! Click on the icon below to open my profile.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-p-franca/)](https://www.linkedin.com/in/pedro-p-franca/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-p-franca/)](https://www.linkedin.com/in/pedro-p-franca/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrodepaulafranca@gmail.com) 
 
 #### :bulb: Take a look on the pinned repos section below to see some of the projects I worked on, as well as a brief description for each of them  
 
